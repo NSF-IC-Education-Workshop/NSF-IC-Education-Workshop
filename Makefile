@@ -1,3 +1,3 @@
 .PHONY: deploy
 deploy:
-	cd site && hugo -d ../public 
+	cd docs && hugo -d ../public 
