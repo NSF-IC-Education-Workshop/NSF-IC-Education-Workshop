@@ -17,7 +17,7 @@ to attend the meeting which will be held via Zoom.
 For the virtual workshop, a range speakers were selected from a
 diverse set of stakeholders in government, academia and
 industry. These speakers were considered for their diverse opinions and unique experiences.
-They were asked to consider which [questions](../questions) are most
+They were asked to consider which [questions](/questions) are most
 concerning to them and what solutions might exist.
 
 Each position statement has 20 minutes total (strictly enforced for
