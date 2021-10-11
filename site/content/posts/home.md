@@ -14,7 +14,7 @@ series:
 ---
 
 
-# [![NSF](images/nsf.png)](http://nsf.gov) Workshop Overview
+# [![NSF](nsf.png)](http://nsf.gov) Workshop Overview
 
 US academic integrated circuit (IC) design education and research are
 facing challenges in many dimensions including access to process
