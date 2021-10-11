@@ -8,7 +8,7 @@ draft: false
 
 May 13-14, 2022
 
-[UCSC Silicon Valley Campus](https://siliconvalley.ucsc.edu/)
+[UC Santa Cruz Silicon Valley Campus](https://siliconvalley.ucsc.edu/)
 
 ## Format
 
