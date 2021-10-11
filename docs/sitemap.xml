@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nsf-ic-education.com/leadership/</loc>
-    <lastmod>2021-10-08T16:16:59-07:00</lastmod>
+    <loc>http://nsf-ic-education.com/</loc>
+    <lastmod>2021-10-11T10:31:20-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nsf-ic-education.com/</loc>
+    <loc>http://nsf-ic-education.com/questions/</loc>
+    <lastmod>2021-10-11T10:31:20-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nsf-ic-education.com/categories/</loc>
+    <lastmod>2021-10-11T10:27:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nsf-ic-education.com/categories/general/</loc>
+    <lastmod>2021-10-11T10:27:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nsf-ic-education.com/posts/home/</loc>
+    <lastmod>2021-10-11T10:27:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nsf-ic-education.com/posts/</loc>
+    <lastmod>2021-10-11T10:27:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://nsf-ic-education.com/leadership/</loc>
     <lastmod>2021-10-08T16:16:59-07:00</lastmod>
   </url>
   
@@ -30,10 +55,6 @@
   <url>
     <loc>http://nsf-ic-education.com/oct_meeting/</loc>
     <lastmod>2021-10-08T12:35:07-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nsf-ic-education.com/categories/</loc>
   </url>
   
   <url>
