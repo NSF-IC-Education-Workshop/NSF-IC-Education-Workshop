@@ -4,15 +4,13 @@ date: 2021-10-08T12:35:07-07:00
 draft: false
 ---
 
-## Registration
+# Registration
 
 You must
 [register](https://ucsc.zoom.us/meeting/register/tJIpd-6rrzIoHNJHVno4DllAomwRRyfeag5X)
 to attend the meeting which will be held via Zoom.
 
-
-
-## Format
+# Format
 
 For the virtual workshop, a range speakers were selected from a
 diverse set of stakeholders in government, academia and
@@ -29,7 +27,7 @@ minutes there will be a limit of 5 minutes of Q&A. If additional time
 is needed, we will mark it as an item for discussion in the Q&A after
 the group of speakers.
 
-## Schedule
+# Schedule
 
 Time | Speaker | Association
 --- | --- | ---

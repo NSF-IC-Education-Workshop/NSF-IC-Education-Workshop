@@ -4,15 +4,15 @@ date: 2021-10-08T13:03:50-07:00
 draft: false
 ---
 
-## Intellectual Merit
+# Intellectual Merit
 
 The outcome of this workshop will provide future guidance on the shortage of IC design engineers in the US and training a future workforce. In particular, the workshop will examine industry and academic needs to find the appropriate pathway for the revitalization of IC research and education in the US.
 
-## Broader Impact
+# Broader Impact
 
 Semiconductor ICs are an essential component of nearly every commercial product, from automobiles to electronic toothbrushes. Society benefits from increased productivity and quality of life through advancements in these products. However, we are also becoming increasingly dependent on other countries to manufacture such goods and increasingly for the development and design of them or the hiring of H1B visa holders to work in the US and design them. Training a domestic workforce to design such products is necessary for economic independence and growth but also for the security and stability of the US.
 
-## Statement of Need
+# Statement of Need
 
 Chip design at US universities blossomed on account of the Mead and Conway Revolution (Conway).  In 1978-79, Carver Mead and Lynn Conway wrote the seminal textbook Introduction to VLSI Systems (Mead).  This book offered abstractions that transformed digital chip design from a complex physics problem into a much easier computer science problem and popularized chip design in academia.  Conway also taught a VLSI course at MIT in 1978 leading to the Multi-Project Chip concept, and Danny Cohen established the Metal Oxide Semiconductor Implementation Service (MOSIS) at USC for VLSI prototyping.  MOSIS fabricated free chips for university VLSI classes, initially with NSF support and later with profits from their commercial operations, but ceased offering this service in 2020.  DARPA also kicked off a VLSI research project in 1980, popularizing Mead & Conway's work and encouraging the development of chips and electronic design automation (EDA) tools.
 

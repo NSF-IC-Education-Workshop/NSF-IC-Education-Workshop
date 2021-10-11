@@ -4,7 +4,7 @@ date: 2021-10-08T12:35:13-07:00
 draft: false
 ---
 
-## Location
+# Location
 
 May 13-14, 2022
 
@@ -12,9 +12,13 @@ May 13-14, 2022
 
 [3175 Bowers Ave, Santa Clara, CA 95054](https://g.page/ucscext?share)
 
-## Format
+# Registration
 
 By invitation only.
+
+# Format
+
+TBD
 
 ## Schedule
 
