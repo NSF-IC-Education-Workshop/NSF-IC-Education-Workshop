@@ -20,3 +20,5 @@ draft: false
 | ![Rajit Manohar](manohar.jpg) | ![Larry Pileggi](pileggi.jpg) | ![James Stine](stine.jpg)  |
 | [Rajit Manohar](https://csl.yale.edu/~rajit/) | [Larry Pileggi](https://users.ece.cmu.edu/~pileggi/) | [James Stine](https://ceat.okstate.edu/ece/faculty-staff/james-stine.html) |
 Yale University | Carnegie Mellon University | Oklahoma State University |
+
+&nbsp;

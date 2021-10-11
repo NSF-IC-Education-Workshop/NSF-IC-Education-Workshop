@@ -114,8 +114,12 @@ disableKinds=["RSS"]
     [[menu.footer]]
       weight = 2
       name = "Baskin Engineering"
-      url = "https://www.soe.ucsc.edu"
+      url = "https://engineering.ucsc.edu"
     [[menu.footer]]
       weight = 3
+      name = "VLSI Design and Automation"
+      url = "https://vlsida.soe.ucsc.edu"
+    [[menu.footer]]
+      weight = 4
       name = "University of California, Santa Cruz"
       url = "https://www.ucsc.edu"

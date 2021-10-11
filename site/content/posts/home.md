@@ -14,7 +14,7 @@ series:
 ---
 
 
-# Workshop Overview
+# [![NSF](images/nsf.png)](http://nsf.gov) Workshop Overview
 
 US academic integrated circuit (IC) design education and research are
 facing challenges in many dimensions including access to process
@@ -41,3 +41,8 @@ but is limited to 100 participants.
 
 Invitations will be sent to up to 40 participants for the in-person
 workshop as a result of the virtual workshop outcomes.
+
+# Contact
+
+For all inquiries, please contact [Prof. Matthew Guthaus](mailto:mrg+nsf@ucsc.edu).
+&nbsp;

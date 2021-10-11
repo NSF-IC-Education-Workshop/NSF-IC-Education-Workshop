@@ -60,3 +60,5 @@ October 15, 2021 | |
 12:00 | Mohamed Kassem | eFabless
 12:20 | Zoran Zvonar | Analog Devices
 12:40 | Industry Q&A |
+
+&nbsp;
