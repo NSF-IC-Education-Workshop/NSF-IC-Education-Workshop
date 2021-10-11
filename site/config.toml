@@ -1,6 +1,6 @@
 baseURL = "http://nsf-ic-education.com/"
 languageCode = "en-us"
-title = "NSF Research, Education, and Workforce Development Workshop"
+title = "NSF Integrated Circuit Research, Education, and Workforce Development Workshop"
 theme = "slick"
 disableKinds=["RSS"]
 
