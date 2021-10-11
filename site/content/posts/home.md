@@ -26,9 +26,9 @@ fabrication, design, and education, leading to increased competition
 and national security risks. We are hosting two workshops to gather
 needs from academics, and insights from industry hiring managers as
 well as IC fabrication and EDA tool companies to develop a vision for
-the future.  To this aim, we propose an initial [virtual workshop on
+the future.  To this aim, are having an initial [virtual workshop on
 October 14-15, 2021](oct_meeting) for information gathering followed
-by an [in-person (invitation only) workshop](may_meeting) to create a
+by an [in-person (invitation only) workshop May 13-14, 2022](may_meeting) to create a
 detailed plan and outcome report.
 
 # Virtual Workshop Registration
