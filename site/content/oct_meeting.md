@@ -4,20 +4,38 @@ date: 2021-10-08T12:35:07-07:00
 draft: false
 ---
 
-## Location
+## Registration
 
-Virtual (Zoom)
+You must
+[register](https://ucsc.zoom.us/meeting/register/tJIpd-6rrzIoHNJHVno4DllAomwRRyfeag5X)
+to attend the meeting which will be held via Zoom.
+
+
 
 ## Format
 
-Each position statement has 20 minutes total (strictly enforced for the equity of presenters. In your position statement, you should spend the first 5-10 minutes (no questions allowed) discussing your primary concerns and potential solutions. We will then follow up with 5-10 minutes of Q&A for discussion. For example, if you speak for 10 minutes there will be a limit of 5 minutes of Q&A. If additional time is needed, we will mark it as an item for discussion in the Q&A after the group of speakers.
+For the virtual workshop, a range speakers were selected from a
+diverse set of stakeholders in government, academia and
+industry. These speakers were considered for their diverse opinions and unique experiences.
+They were asked to consider which [questions](../questions) are most
+concerning to them and what solutions might exist.
+
+Each position statement has 20 minutes total (strictly enforced for
+the equity of presenters. In your position statement, you should spend
+the first 5-10 minutes (no questions allowed) discussing your primary
+concerns and potential solutions. We will then follow up with 5-10
+minutes of Q&A for discussion. For example, if you speak for 10
+minutes there will be a limit of 5 minutes of Q&A. If additional time
+is needed, we will mark it as an item for discussion in the Q&A after
+the group of speakers.
 
 ## Schedule
 
 Time | Speaker | Association
 --- | --- | ---
 October 14, 2021 | |
-9:00 | Erik Brunvand | National Science Foundation
+9:00 | Matthew Guthaus | UC Santa Cruz
+9:10 | Erik Brunvand | National Science Foundation
 9:20 | Todd Younkin | Semiconductor Research Corporation
 9:40 | Qing Wu | Air Force Research Labs
 10:00 | George Suarez | NASA

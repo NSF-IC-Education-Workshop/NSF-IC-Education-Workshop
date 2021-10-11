@@ -41,7 +41,7 @@ disableKinds=["RSS"]
     showMeta = false
 
     # If false the dates for the posts are not shown
-    showMetaDates = false
+    showMetaDates = true
 
     # If false the taxonomy links for the posts are not shown
     showMetaLinks = false
