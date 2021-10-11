@@ -44,6 +44,6 @@ workshop as a result of the virtual workshop outcomes.
 
 # Contact
 
-For all inquiries, please contact [Prof. Matthew Guthaus](mailto://mrg@ucsc.edu?subject=NSF%20IC%20Workshop).
+For all inquiries, please contact [Prof. Matthew Guthaus](mailto://mrg@ucsc.edu).
 
 &nbsp;
