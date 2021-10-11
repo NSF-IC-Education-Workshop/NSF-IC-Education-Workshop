@@ -33,7 +33,7 @@ Time | Speaker | Association
 --- | --- | ---
 October 14, 2021 | |
 9:00 | Matthew Guthaus | UC Santa Cruz
-9:10 | Erik Brunvand | National Science Foundation
+9:05 | Erik Brunvand | National Science Foundation
 9:20 | Todd Younkin | Semiconductor Research Corporation
 9:40 | Qing Wu | Air Force Research Labs
 10:00 | George Suarez | NASA
