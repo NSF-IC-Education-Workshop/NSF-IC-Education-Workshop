@@ -44,6 +44,6 @@ workshop as a result of the virtual workshop outcomes.
 
 # Contact
 
-For all inquiries, please contact [Prof. Matthew Guthaus](mailto://mrg@ucsc.edu).
+For all inquiries, please contact [Prof. Matthew Guthaus](https://engineering.ucsc.edu/people/mrg) at mrg@ucsc.edu.
 
 &nbsp;
