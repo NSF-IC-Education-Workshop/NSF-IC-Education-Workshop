@@ -10,6 +10,8 @@ May 13-14, 2022
 
 [UC Santa Cruz Silicon Valley Campus](https://siliconvalley.ucsc.edu/)
 
+[3175 Bowers Ave, Santa Clara, CA 95054](https://g.page/ucscext?share)
+
 ## Format
 
 By invitation only.
