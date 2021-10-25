@@ -33,30 +33,30 @@ Time | Speaker | Association
 --- | --- | ---
 October 14, 2021 | |
 9:00 | [Matthew Guthaus](/oct_slides/00-oct-guthaus.pdf) | UC Santa Cruz
-9:05 | [Erik Brunvand](/oct_slides/00-oct-brunvand.pdf) | National Science Foundation
-9:20 | [Todd Younkin](/oct_slides/00-oct-younkin.pdf)  | Semiconductor Research Corporation
-9:40 | [Qing Wu](/oct_slides/00-oct-wu.pdf)  | Air Force Research Labs
-10:00 | [George Suarez](/oct_slides/00-oct-suarez.pdf)  | NASA
+9:05 | [Erik Brunvand](/oct_slides/01-brunvand.pdf) | National Science Foundation
+9:20 | [Todd Younkin](/oct_slides/02-younkin.pdf)  | Semiconductor Research Corporation
+9:40 | [Qing Wu](/oct_slides/03-wu.pdf)  | Air Force Research Labs
+10:00 | [George Suarez](/oct_slides/04-suarez.pdf)  | NASA
 10:20 | Government Q&A |
-10:40 | [Ken Mai](/oct_slides/00-oct-mai.pdf)  | Carnegie Mellon University
-11:00 | [Gayatri Mehta](/oct_slides/00-oct-mehta.pdf)  | University of North Texas
-11:20 | [Daniel Limbrick](/oct_slides/00-oct-limbrick.pdf)  | North Carolina Agricultural and Technical State University (NC A&T)
-11:40 | [Tina Hudson](/oct_slides/00-oct-hudson.pdf)  | Rose-Hulman Institute of Technology
-12:00 | [Kenneth O](/oct_slides/00-oct-o.pdf)  | University of Texas Dallas
-12:20 | [Michael Taylor](/oct_slides/00-oct-taylor.pdf)  | University of Washington
+10:40 | [Ken Mai](/oct_slides/05-mai.pdf)  | Carnegie Mellon University
+11:00 | [Gayatri Mehta](/oct_slides/06-mehta.pdf)  | University of North Texas
+11:20 | [Daniel Limbrick](/oct_slides/07-limbrick.pdf)  | North Carolina Agricultural and Technical State University (NC A&T)
+11:40 | [Tina Hudson](/oct_slides/08-hudson.pdf)  | Rose-Hulman Institute of Technology
+12:00 | [Kenneth O](/oct_slides/09-o.pdf)  | University of Texas Dallas
+12:20 | [Michael Taylor](/oct_slides/10-taylor.pdf)  | University of Washington
 12:40 | Academia Q&A |
 October 15, 2021 | |
-9:00 | [Geoff Porter](/oct_slides/00-oct-porter.pdf)  | Muse Semiconductor
-9:20 | [Hui Fu](/oct_slides/00-oct-fu.pdf)  | Intel Corporation
-9:40 | [LaMar Hill](/oct_slides/00-oct-hill.pdf)  | NY CREATES
-10:00 | [Christoph Studer](/oct_slides/00-oct-studer.pdf)  | ETH Zurich
-10:20 | [Ross Miller](/oct_slides/00-oct-miller.pdf)  | Skywater Technology
+9:00 | [Geoff Porter](/oct_slides/11-porter.pdf)  | Muse Semiconductor
+9:20 | [Hui Fu](/oct_slides/12-fu.pdf)  | Intel Corporation
+9:40 | [LaMar Hill](/oct_slides/13-hill.pdf)  | NY CREATES
+10:00 | [Christoph Studer](/oct_slides/14-studer.pdf)  | ETH Zurich
+10:20 | [Ross Miller](/oct_slides/15-miller.pdf)  | Skywater Technology
 10:40 | Foundry Q&A |
-11:00 | [Andrew Kahng](/oct_slides/00-oct-kahng.pdf)  | UCSD/OpenRoad/Startups
-11:20 | [Rob Mains](/oct_slides/00-oct-mains.pdf)  | CHIPS Alliance
+11:00 | [Andrew Kahng](/oct_slides/16-kahng.pdf)  | UCSD/OpenRoad/Startups
+11:20 | [Rob Mains](/oct_slides/17-mains.pdf)  | CHIPS Alliance
 11:40 | Tim Ansell | Google
-12:00 | [Mohamed Kassem](/oct_slides/00-oct-kassem.pdf)  | eFabless
-12:20 | [Zoran Zvonar](/oct_slides/00-oct-zvonar.pdf)  | Analog Devices
+12:00 | [Mohamed Kassem](/oct_slides/19-kassem.pdf)  | eFabless
+12:20 | [Zoran Zvonar](/oct_slides/20-zvonar.pdf)  | Analog Devices
 12:40 | Industry Q&A |
 
 # Attendees
