@@ -74,7 +74,7 @@ Nitin	Borkar | Qualcomm
 Erik	Brunvand | NSF
 Ben	Calhoun | UVA
 John	Damoulakis | ISI
-Donald	Davidson |
+Donald	Davidson | Synopsys
 Rhett	Davis | NCSU
 Antonio	de la Serna | DARPA
 Jeff	DiCorpo | eFabless
@@ -83,7 +83,7 @@ Paul	Franzon | NCSU
 Hui	Fu | Intel
 Pierre-Emmanuel	Gaillardon | University of Utah
 Matthew	Guthaus | UCSC
-Deirdre	Hanford |
+Deirdre	Hanford | Synopsys
 David	Harris | Harvey Mudd
 Patrick	Haspel | Synopsys
 LaMar	Hill | NY Creates
