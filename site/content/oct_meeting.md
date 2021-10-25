@@ -32,7 +32,7 @@ the group of speakers.
 Time | Speaker | Association
 --- | --- | ---
 October 14, 2021 | |
-9:00 | [Matthew Guthaus](/oct_slides/00-oct-guthaus.pdf) | UC Santa Cruz
+9:00 | [Matthew Guthaus](/oct_slides/00-guthaus.pdf) | UC Santa Cruz
 9:05 | [Erik Brunvand](/oct_slides/01-brunvand.pdf) | National Science Foundation
 9:20 | [Todd Younkin](/oct_slides/02-younkin.pdf)  | Semiconductor Research Corporation
 9:40 | [Qing Wu](/oct_slides/03-wu.pdf)  | Air Force Research Labs
