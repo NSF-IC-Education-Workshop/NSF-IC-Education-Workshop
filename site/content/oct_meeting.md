@@ -59,4 +59,79 @@ October 15, 2021 | |
 12:20 | Zoran Zvonar | Analog Devices
 12:40 | Industry Q&A |
 
+# Attendees
+
+ Name | Association
+ --- | ---
+Timothy	Ansell | Google
+Krste	Asanovic | UC Berkeley
+Iris	Bahar | Brown University
+Mamta	Bansal | Qualcomm
+Christopher	Batten | Cornell University
+Peter	Beerel | USC
+Sanjukta	Bhanja | University of South Florida
+Nitin	Borkar | Qualcomm
+Erik	Brunvand | NSF
+Ben	Calhoun | UVA
+John	Damoulakis | ISI
+Donald	Davidson |
+Rhett	Davis | NCSU
+Antonio	de la Serna | DARPA
+Jeff	DiCorpo | eFabless
+Tim	Edwards | eFabless
+Paul	Franzon | NCSU
+Hui	Fu | Intel
+Pierre-Emmanuel	Gaillardon | University of Utah
+Matthew	Guthaus | UCSC
+Deirdre	Hanford |
+David	Harris | Harvey Mudd
+Patrick	Haspel | Synopsys
+LaMar	Hill | NY Creates
+Tina	Hudson | Rose-Hulman
+Angela	Hwang  | Synopsys
+Bill	Isaacson | Muse Semi
+Riadul	Islam | UMBC
+Mark	Johnson | Purdue University
+Siddharth	Joshi | Notre Dame
+David	Junkin | Cadence
+Andrew	Kahng | UCSD
+Mohamed	Kassem | eFabless
+Srinivas	Katkoori | USF
+Brucek	Khailany | NVidia
+Allan	Klinck | Siemens
+Anton	Klotz | Cadence
+Serge	Leef | DARPA
+Daniel	Limbrick | NCAT
+Ken	Mai | Carnegie Melon University
+Rob	Mains | CHIPS Alliance
+Rajit	Manohar | Yale University
+Pinaki	Mazumder | NSF
+Gayatri	Mehta | University of North Texas
+Ross	Miller | Skywater
+Robert	Montoye | IBM
+Matthew	Morrison | Notre Dame
+Anna	Nelson | Cohen Group
+John	Nestor | Lafayette College
+Borivoje	Nikolic | UC Berkeley
+Adrian	Nunez-Rocha | Qualcomm
+Kenneth	O | University of Texas at Dallas
+Christopher	Ober | Cornell University
+Andreas	Olofsson | Zero ASIC
+Ron	Olson | Cornell University
+Geoff	Porter | Muse Semi
+Jordan	Roth | Cohen Group
+Mehdi	Saligane | University of Michigan
+Sophia	Shao | UC Berkeley
+Mircea	Stan  | University of Virginia
+James	Stine | Oklahoma State University
+Christoph	Studer | ETH Zurich
+George	Suarez | NASA
+Michael	Taylor | University of Washington
+Jim	Wieser | Texas Instruments
+Michael	Wishart | eFabless
+Qing	Wu | AFRL
+Todd	Younkin | SRC
+Victor	Zhirnov | SRC
+Zoran	Zvonar | Analog Devices
+
 &nbsp;
