@@ -73,7 +73,7 @@ Sanjukta	Bhanja | University of South Florida
 Nitin	Borkar | Qualcomm
 Erik	Brunvand | National Science Foundation
 Ben	Calhoun | University of Virginia
-John	Damoulakis | ISI
+John	Damoulakis | Information Sciences Institute
 Donald	Davidson | Synopsys
 Rhett	Davis | North Carolina State University
 Antonio	de la Serna | DARPA
