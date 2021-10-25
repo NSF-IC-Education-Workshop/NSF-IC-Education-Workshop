@@ -68,44 +68,44 @@ Krste	Asanovic | UC Berkeley
 Iris	Bahar | Brown University
 Mamta	Bansal | Qualcomm
 Christopher	Batten | Cornell University
-Peter	Beerel | USC
+Peter	Beerel | University of Southern California
 Sanjukta	Bhanja | University of South Florida
 Nitin	Borkar | Qualcomm
-Erik	Brunvand | NSF
-Ben	Calhoun | UVA
+Erik	Brunvand | National Science Foundation
+Ben	Calhoun | University of Virginia
 John	Damoulakis | ISI
 Donald	Davidson | Synopsys
-Rhett	Davis | NCSU
+Rhett	Davis | North Carolina State University
 Antonio	de la Serna | DARPA
 Jeff	DiCorpo | eFabless
 Tim	Edwards | eFabless
-Paul	Franzon | NCSU
+Paul	Franzon | North Carolina State University
 Hui	Fu | Intel
 Pierre-Emmanuel	Gaillardon | University of Utah
-Matthew	Guthaus | UCSC
+Matthew	Guthaus | UC Santa Cruz
 Deirdre	Hanford | Synopsys
 David	Harris | Harvey Mudd
 Patrick	Haspel | Synopsys
 LaMar	Hill | NY Creates
-Tina	Hudson | Rose-Hulman
+Tina	Hudson | Rose-Hulman Institute of Technology
 Angela	Hwang  | Synopsys
-Bill	Isaacson | Muse Semi
-Riadul	Islam | UMBC
+Bill	Isaacson | Muse Semiconductor
+Riadul	Islam | University of Maryland Baltimore County
 Mark	Johnson | Purdue University
 Siddharth	Joshi | Notre Dame
 David	Junkin | Cadence
-Andrew	Kahng | UCSD
+Andrew	Kahng | UC San Diego
 Mohamed	Kassem | eFabless
 Srinivas	Katkoori | USF
 Brucek	Khailany | NVidia
 Allan	Klinck | Siemens
 Anton	Klotz | Cadence
 Serge	Leef | DARPA
-Daniel	Limbrick | NCAT
-Ken	Mai | Carnegie Melon University
+Daniel	Limbrick | North Carolina Agricultural and Technical State University (NC A&T)
+Ken	Mai | Carnegie Mellon University
 Rob	Mains | CHIPS Alliance
 Rajit	Manohar | Yale University
-Pinaki	Mazumder | NSF
+Pinaki	Mazumder | National Science Foundation
 Gayatri	Mehta | University of North Texas
 Ross	Miller | Skywater
 Robert	Montoye | IBM
@@ -114,11 +114,11 @@ Anna	Nelson | Cohen Group
 John	Nestor | Lafayette College
 Borivoje	Nikolic | UC Berkeley
 Adrian	Nunez-Rocha | Qualcomm
-Kenneth	O | University of Texas at Dallas
+Kenneth	O | University of Texas Dallas
 Christopher	Ober | Cornell University
 Andreas	Olofsson | Zero ASIC
 Ron	Olson | Cornell University
-Geoff	Porter | Muse Semi
+Geoff	Porter | Muse Semiconductor
 Jordan	Roth | Cohen Group
 Mehdi	Saligane | University of Michigan
 Sophia	Shao | UC Berkeley
@@ -129,9 +129,9 @@ George	Suarez | NASA
 Michael	Taylor | University of Washington
 Jim	Wieser | Texas Instruments
 Michael	Wishart | eFabless
-Qing	Wu | AFRL
-Todd	Younkin | SRC
-Victor	Zhirnov | SRC
+Qing	Wu | Air Force Research Labs
+Todd	Younkin | Semiconductor Research Corporation
+Victor	Zhirnov | Semiconductor Research Corporation
 Zoran	Zvonar | Analog Devices
 
 &nbsp;
