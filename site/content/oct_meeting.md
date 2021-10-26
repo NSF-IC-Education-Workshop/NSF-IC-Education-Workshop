@@ -52,7 +52,7 @@ October 15, 2021 | |
 10:00 | [Christoph Studer](/oct_slides/14-studer.pdf)  | ETH Zurich
 10:20 | [Ross Miller](/oct_slides/15-miller.pdf)  | Skywater Technology
 10:40 | Foundry Q&A |
-11:00 | [Andrew Kahng](/oct_slides/16-kahng.pdf)  | UCSD/OpenRoad/Startups
+11:00 | [Andrew Kahng](/oct_slides/16-kahng.pdf) [pptx](/oct_slides/16-kahng.pptx)  | UCSD/OpenRoad/Startups
 11:20 | [Rob Mains](/oct_slides/17-mains.pdf)  | CHIPS Alliance
 11:40 | [Tim Ansell](https://docs.google.com/presentation/d/e/2PACX-1vRVirHYOtClPQBmrFcFw09x5YHsbVecytjjQxMwVXGkA3M_qGe6k0LvimEc360-t3nQ1Lz8nUF1kqAW/pub?start=false&loop=false&delayms=3000&slide=id.p) | Google
 12:00 | [Mohamed Kassem](/oct_slides/19-kassem.pdf)  | eFabless
