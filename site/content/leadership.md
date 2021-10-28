@@ -8,10 +8,10 @@ draft: false
 
 | | |
 | :---: | :---: | :---: |
-| **Chair** | | **Program Manager** |
-| ![Matthew Guthaus](guthaus.jpg) | | ![Erik Brunvand](brunvand.jpg) |
-| [Matthew Guthaus](https://engineering.ucsc.edu/people/mrg) | | [Erik Brunvand](https://www.cs.utah.edu/~elb/) |
-| UC Santa Cruz | | National Science Foundation |
+| **Chair** | **Program Manager** | **Program Manager** |
+| ![Matthew Guthaus](guthaus.jpg) | ![Erik Brunvand](brunvand.jpg) | ![Pinaki Mazumder](mazumder.jpg) |
+| [Matthew Guthaus](https://engineering.ucsc.edu/people/mrg) | [Erik Brunvand](https://www.cs.utah.edu/~elb/) | [Pinaki Mazumder](https://web.eecs.umich.edu/~mazum/) |
+| UC Santa Cruz | National Science Foundation | National Science Foundation |
 | | |
 | | |
 | | **Steering Committee** |
