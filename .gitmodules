@@ -1,3 +1,4 @@
 [submodule "site/themes/slick"]
 	path = site/themes/slick
 	url = https://github.com/spookey/slick.git
+	branch = main
