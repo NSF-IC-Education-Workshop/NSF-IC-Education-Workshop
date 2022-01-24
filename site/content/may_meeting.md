@@ -6,7 +6,7 @@ draft: false
 
 # Location
 
-May 13-14, 2022
+May 20-21, 2022
 
 [UC Santa Cruz Silicon Valley Campus](https://siliconvalley.ucsc.edu/)
 
