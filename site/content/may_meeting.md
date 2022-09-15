@@ -4,6 +4,10 @@ date: 2021-10-08T12:35:13-07:00
 draft: false
 ---
 
+# Registration
+
+This event was invitation only. Invitees were selected from the initial virtual workshop.
+
 # Location
 
 May 20-21, 2022
