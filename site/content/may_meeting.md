@@ -19,7 +19,7 @@ discussion, and breakout groups. After introductions, we had a presentation
 from IMEC which was identified as a potential model to replicate in our virtual
 workshop. After this, we had a lively panel on the importance of open-source
 and proprietary EDA tool flows with representatives from both academia and
-industry on both sides of the issue.
+industry.
 
 The remainder of the workshop was a rotation of pre-assigned representatives on
 five topic areas identified during the virtual workshop. It was ensured that
