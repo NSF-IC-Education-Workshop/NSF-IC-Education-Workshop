@@ -36,6 +36,10 @@ We held a [virtual workshop on October 14-15, 2021](oct_meeting) for initial inf
 We held an [in-person (invitation only) workshop May 20-21, 2022](may_meeting) to create a
 detailed plan and outcome report.
 
+# Final report
+
+We have released [a final report with our recommendations.](report)
+
 # Contact
 
 For all inquiries, please contact [Prof. Matthew Guthaus](https://engineering.ucsc.edu/people/mrg) at mrg@ucsc.edu.

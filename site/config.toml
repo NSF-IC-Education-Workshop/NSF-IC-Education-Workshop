@@ -123,3 +123,8 @@ disableKinds=["RSS"]
       weight = 4
       name = "University of California, Santa Cruz"
       url = "https://www.ucsc.edu"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

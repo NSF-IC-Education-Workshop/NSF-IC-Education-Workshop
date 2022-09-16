@@ -4,4 +4,10 @@ date: 2021-10-08T14:52:01-07:00
 draft: false
 ---
 
-The summary report will be available following the [in-person meeting](../may_meeting).
+[<img src="/nsf_report_cover.png"  width=30% alt="NSF Integrated Circuit Research, Education and Workforce Development Workshop Final Report">](/NSF_IC_Workshop_Final_Report.pdf)
+
+[NSF Integrated Circuit Research, Education and Workforce Development Workshop Final Report](/NSF_IC_Workshop_Final_Report.pdf)
+
+&nbsp;
+
+

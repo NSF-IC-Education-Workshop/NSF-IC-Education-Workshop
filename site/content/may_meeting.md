@@ -8,6 +8,8 @@ draft: false
 
 This event was invitation only. Invitees were selected from the initial virtual workshop.
 
+<img src="/workshop_photo.jpg"  width=40% alt="NSF Integrated Circuit Research, Education and Workforce Development Workshop Photograph">
+
 # Location
 
 May 20-21, 2022

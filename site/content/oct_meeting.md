@@ -6,9 +6,7 @@ draft: false
 
 # Registration
 
-You must
-[register](https://ucsc.zoom.us/meeting/register/tJIpd-6rrzIoHNJHVno4DllAomwRRyfeag5X)
-to attend the meeting which will be held via Zoom.
+You must register to attend the meeting which will be held via Zoom.
 
 # Format
 
