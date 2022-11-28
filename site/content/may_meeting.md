@@ -62,7 +62,7 @@ Pinaki	Mazumder	|	NSF/University of Michigan
 James	Stine	|	Oklahoma State University
 David	Harris	|	Harvey Mudd College
 David	Junkin	|	Cadence
-John	Damoulakis	|	Synopsys
+John	Damoulakis	|	Cadence
 Shakeel	Jeeawoody	|	Mentor Graphics
 Mohamed	Kassem	|	E-fabless
 Ken	Mai	|	Carnegie Mellon University
