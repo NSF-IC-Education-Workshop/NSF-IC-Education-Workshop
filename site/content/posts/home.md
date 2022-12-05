@@ -14,7 +14,7 @@ series:
 ---
 
 
-# [![NSF](nsf.png)](http://nsf.gov) Workshop Overview
+# [![NSF](/images/nsf.png)](http://nsf.gov) Workshop Overview
 
 US academic integrated circuit (IC) design education and research are
 facing challenges in many dimensions including access to process
@@ -29,16 +29,16 @@ well as IC fabrication and EDA tool companies to develop a vision for
 the future.  
 # Virtual Workshop 
 
-We held a [virtual workshop on October 14-15, 2021](oct_meeting) for initial information gathering.
+We held a [virtual workshop on October 14-15, 2021](/oct_meeting) for initial information gathering.
 
 # In-Person Workshop 
 
-We held an [in-person (invitation only) workshop May 20-21, 2022](may_meeting) to create a
+We held an [in-person (invitation only) workshop May 20-21, 2022](/may_meeting) to create a
 detailed plan and outcome report.
 
 # Final report
 
-We have released [a final report with our recommendations.](report)
+We have released [a final report with our recommendations.](/report)
 
 # Contact
 
